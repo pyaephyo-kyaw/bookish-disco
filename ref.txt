@@ -1,0 +1,7 @@
+I just follow the following guidelines for git flow and versioning.
+#Git flow
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+#Branching Model
+https://nvie.com/posts/a-successful-git-branching-model/
+#Versioning
+https://semver.org
